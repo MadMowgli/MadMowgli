@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MadMowgli
+- 👀 I’m interested in Java, Python - any programming language except for C#, really.
+- 🌱 I’m currently doing my bachelors' degree in business informatics
+- 📫 Reach me under madmowgli@protonmail.com
