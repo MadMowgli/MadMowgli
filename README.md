@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm mad.</h3>
+<h3 align="left">Hi, I'm mad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madmowgli&label=Profile%20views&color=0e75b6&style=flat" alt="madmowgli" /> </p>
 
